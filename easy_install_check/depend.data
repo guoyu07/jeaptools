@@ -1,0 +1,6 @@
+matplotlib:numpy
+plugs:uliweb
+par:uliweb
+uliweb:SQLAlchemy
+uliwebzone:plugs,par
+pyvoice:pyaudio,wave,audioop
